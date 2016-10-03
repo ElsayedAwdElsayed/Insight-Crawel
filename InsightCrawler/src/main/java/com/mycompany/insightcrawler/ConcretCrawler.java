@@ -12,4 +12,7 @@ package com.mycompany.insightcrawler;
 public class ConcretCrawler {
     //sayededitedhere
     
+
+    public static int number=4;
+
 }

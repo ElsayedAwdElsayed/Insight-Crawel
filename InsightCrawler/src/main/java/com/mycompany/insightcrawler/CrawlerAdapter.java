@@ -15,7 +15,6 @@ public class CrawlerAdapter {
         System.out.println("Elsayed AWd ");
         System.nanoTime();
         //modified
-
         /**
          *
          * @return
@@ -24,5 +23,9 @@ public class CrawlerAdapter {
 
     public String getNumber() {
         return "number";
+    }
+    public static void printResult()
+    {
+        System.out.println("goog good good ");
     }
 }
