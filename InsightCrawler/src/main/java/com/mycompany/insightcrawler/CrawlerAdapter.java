@@ -10,11 +10,19 @@ package com.mycompany.insightcrawler;
  * @author elsayedawd
  */
 public class CrawlerAdapter {
+
     public static void main(String[] args) {
         System.out.println("Elsayed AWd ");
         System.nanoTime();
         //modified
-        
+
+        /**
+         *
+         * @return
+         */
     }
-    
+
+    public String getNumber() {
+        return "number";
+    }
 }
