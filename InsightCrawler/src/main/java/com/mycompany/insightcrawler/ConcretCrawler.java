@@ -10,9 +10,5 @@ package com.mycompany.insightcrawler;
  * @author elsayedawd
  */
 public class ConcretCrawler {
-    //sayededitedhere
-    
-
     public static int number=4;
-
 }
